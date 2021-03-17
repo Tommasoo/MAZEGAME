@@ -1,0 +1,7 @@
+window width: 2200
+window height: 1400
+cell number: 30
+cell border width = 3
+
+
+
